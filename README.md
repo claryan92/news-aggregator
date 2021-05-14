@@ -1,1 +1,3 @@
-# news-aggregator
+# News Aggregator
+
+Python application built on Django framework.
